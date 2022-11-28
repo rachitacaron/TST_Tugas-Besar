@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI, Depends, HTTPException
 from database import engine, SessionLocal
 from sqlalchemy.orm import Session
 from typing import List
