@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Users\Code\TST\tst_tugas-besar\env"
+VIRTUAL_ENV="D:\Users\Code\TST\tst_auth_api\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
